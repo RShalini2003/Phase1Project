@@ -1,2 +1,2 @@
 # Fake-News-Detection
-Fake News Classifier using NLP techniques
+Fake News Detection using NLP techniques
